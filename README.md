@@ -134,4 +134,4 @@ MIT License.
 ## Citation
 Zhiri, F. (2025). Quantum-Inspired Machine Learning For Hyperparameter Optimzation for Brain Disorder Neuroimaging.
 
-
+[Fatima Zahra Zhiri](https://www.linkedin.com/in/fatima-zahra-zhiri-722046274/)
