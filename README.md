@@ -81,7 +81,8 @@ SVM probability outputs are post-processed using **temperature scaling** to impr
 
 ### EEG – Kaggle Dataset
 - PCA→8-qubit embedding captures subtle temporal–spectral correlations.
-- Hybrid kernel outperform classical-only kernels.
+- Hybrid kernel outperform classical-only kernels. **AUC = 0.841** **ECE = 0.015**, **Fusion ECE** = 0.008** nearly perfect 
+
 - More stable cross-validation performance under low-sample conditions.
 
 ---
