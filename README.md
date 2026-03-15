@@ -1,5 +1,15 @@
 # Quantum-Inspired Machine Learning For Hyperparameter Optimization for Brain Disorder Neuroimaging
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-ML-orange)
+![Quantum Computing](https://img.shields.io/badge/QuantumComputing-QML-purple)
+![PennyLane](https://img.shields.io/badge/PennyLane-QuantumFramework-blueviolet)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![Dataset](https://img.shields.io/badge/Dataset-UCLA%20LA5c-green)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20EEG-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 ## Overview
 This repository contains the full implementation of a **quantum-inspired and quantum-hybrid machine learning framework** for classifying brain disorders using **MRI (UCLA LA5c)** and **EEG (Kaggle)** neuroimaging datasets.  
 The project investigates whether **quantum feature maps**, **Random Fourier Features**, and **hybrid classical–quantum kernels** improve separability, calibration reliability, and interpretability in medical ML tasks.
